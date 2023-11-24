@@ -1,4 +1,4 @@
-#Automation testing with java and cucumber
+Automation testing with java and cucumber
 
 www.saucedemo.com
 
